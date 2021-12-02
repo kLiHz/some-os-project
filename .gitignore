@@ -1,1 +1,8 @@
+
+# Project builds
+*build*/
+
+# Compiled files
+*.o
+*.obj
 *.out
